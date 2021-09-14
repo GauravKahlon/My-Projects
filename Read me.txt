@@ -1,3 +1,0 @@
-All the tables are present in banking_db.txt file. 
-
-You need to add these queries in your databases to store data at the backend.
